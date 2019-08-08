@@ -1,4 +1,6 @@
-# Fork by https://github.com/amdegroot/ssd.pytorch
+## Fork by https://github.com/amdegroot/ssd.pytorch
+修改部分代码，使其可以训练特定的数据集（猪场）。
+在demo文件夹中，my开头的文件是新的用来eval和检测的代码。
 # SSD: Single Shot MultiBox Object Detector, in PyTorch
 A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detector](http://arxiv.org/abs/1512.02325) from the 2016 paper by Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang, and Alexander C. Berg.  The official and original Caffe code can be found [here](https://github.com/weiliu89/caffe/tree/ssd).
 
